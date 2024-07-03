@@ -1,0 +1,148 @@
+{
+  "contacts": [
+    {
+      "id": "AAA11",
+      "name": "Arti",
+      "photo": "https://img.freepik.com/premium-photo/3d-avatar-character_113255-30530.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "8975666075",
+      "email": "arti@gmail.com",
+      "company": "Google",
+      "title": "Frontend Developer",
+      "groupId": "1"
+    },
+    {
+      "id": "AAA12",
+      "name": "Pallavi",
+      "photo": "https://img.freepik.com/free-photo/3d-illustration-cute-cartoon-girl-blue-jacket-glasses_1142-41044.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "9975666075",
+      "email": "pallavi@gmail.com",
+      "company": "Wipro",
+      "title": "Developer",
+      "groupId": "1"
+    },
+    {
+      "id": "AAA13",
+      "name": "Kamini",
+      "photo": "https://img.freepik.com/premium-photo/3d-avatar-character_113255-32206.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "8875666075",
+      "email": "kamini@gmail.com",
+      "company": "PCMC",
+      "title": "CA",
+      "groupId": "2"
+    },
+    {
+      "id": "AAA14",
+      "name": "Shital",
+      "photo": "https://img.freepik.com/free-photo/portrait-3d-female-doctor_23-2151107459.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "7975666075",
+      "email": "shital@gmail.com",
+      "company": "DY",
+      "title": "Nerse",
+      "groupId": "2"
+    },
+    {
+      "id": "AAA15",
+      "name": "Punam",
+      "photo": "https://img.freepik.com/free-photo/portrait-beautiful-girl-yellow-coat-with-backpack_1142-55171.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "7875666075",
+      "email": "punam@gmail.com",
+      "company": "IDFC",
+      "title": "accountant",
+      "groupId": "3"
+    },
+    {
+      "id": "AAA16",
+      "name": "Jayu",
+      "photo": "https://img.freepik.com/free-photo/portrait-cute-girl-with-brown-hair-3d-rendering_1142-43502.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "7775666075",
+      "email": "jayugmail.com",
+      "company": "Infosys",
+      "title": "Developer",
+      "groupId": "2"
+    },
+    {
+      "id": "AAA17",
+      "name": "Sakshi",
+      "photo": "https://img.freepik.com/premium-photo/3d-avatar-character_113255-32519.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "9975666075",
+      "email": "sakshi@gmail.com",
+      "company": "Accenture",
+      "title": "Developer",
+      "groupId": "3"
+    },
+    {
+      "id": "AAA18",
+      "name": "Neha",
+      "photo": "https://img.freepik.com/premium-photo/3d-avatar-character_113255-32350.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "8875666075",
+      "email": "neha@gmail.com",
+      "company": "PCMC",
+      "title": "CA",
+      "groupId": "2"
+    },
+    {
+      "id": "AAA19",
+      "name": "Deep ",
+      "photo": "https://img.freepik.com/free-photo/3d-illustration-cute-cartoon-boy-with-backpack-glasses_1142-38729.jpg?t=st=1715866478~exp=1715870078~hmac=c682666e8d7fb1ad2c43f196a7ac8e80daec6f331bf0d7ee0dca107138ca63d5&w=740",
+      "contact": "7975666075",
+      "email": "deep@gmail.com",
+      "company": "Tech Mahindra",
+      "title": "Developer",
+      "groupId": "2"
+    },
+    {
+      "id": "AAA20",
+      "name": "Ganesh",
+      "photo": "https://img.freepik.com/premium-photo/3d-illustration-teenager-boy-with-backpack-his-head_1142-50393.jpg?w=740",
+      "contact": "7875666070",
+      "email": "ganesh@gmail.com",
+      "company": "IDFC",
+      "title": "accountant",
+      "groupId": "1"
+    },
+    {
+      "id": "7947",
+      "name": "Pari",
+      "photo": "https://img.freepik.com/premium-photo/3d-character-cartoon_113255-29421.jpg?w=740",
+      "contact": "8975012300",
+      "email": "pari@gmail.com",
+      "title": "Manager",
+      "company": "Microsoft",
+      "groupId": "1"
+    },
+    {
+      "id": "bd8f",
+      "name": "",
+      "photo": "",
+      "contact": "",
+      "email": "",
+      "title": "",
+      "company": "",
+      "groupId": ""
+    },
+    {
+      "id": "65f5",
+      "name": "Anjali Vaidya",
+      "photo": "https://media.istockphoto.com/id/1365119114/photo/metaverse-and-blockchain-technology-concept-with-teenage-girl-enjoying-metaverse-virtual.jpg?s=612x612&w=0&k=20&c=vxQ91VzMY7Oyz9WxPgVQ4U48-fbJMqEyng0nhRID3PI=",
+      "contact": "08767916513",
+      "email": "anjalivaidya932001@gmail.com",
+      "title": "Java Developer",
+      "company": "TCS",
+      "groupId": ""
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "family"
+    },
+    {
+      "id": "2",
+      "name": "friends"
+    },
+    {
+      "id": "1",
+      "name": "social"
+    }
+  ]
+}
